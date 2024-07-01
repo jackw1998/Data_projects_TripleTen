@@ -4,7 +4,7 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | E-Commerce transaction log analysis | The project task was to analyze e-commerce data to find conversion rates, retention rates, cohort analysis, etc. |
+| 2 | Storytelling with Data | The project task was to prepare an analysis for the CEO of a superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders. |
+| 3 | Shopify App Analysis | The project task was to review the landscape of apps on the shopify app platform using data scraped from publicly available shopify websites and find key factors that play into the success of a Shopify app. |
+| 4 | Restaurant Analysis | The project task was to find what metrics make a restaurant successful in India and neighboring countries |
